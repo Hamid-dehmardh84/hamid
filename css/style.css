@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header-d{
+    background-color: black;
+    height: 140px;
+    width: 100%;
+}
+a:hover{
+    font-size: 36px;
+    box-shadow: 0px 0px 10px 8px blueviolet;
+}
+a{
+    transition-property: box-shadow ,font-size;
+    transition-duration: 1s;
+    display: inline-block;
+    text-decoration: none;
+    color:  blueviolet;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: solid 2px  ;
+    border-radius: 15px;
+    /* box-shadow: 3px 0px 7px 8px blueviolet; */
+}
+div{
+     height: 100px;
+      width:200px ;
+      margin-top: 10px;
+    }
+.div1{
+
+    background-color: rgb(5, 5, 117);
+}
+.div2{
+    background-color: rgb(2, 55, 230);
+}
+.div3{
+    background-color: rgb(0, 132, 255);
+}
+.div4{ 
+     background-color: rgb(212, 0, 255);
+    }
+.div5{
+    background-color: rgb(255, 0, 200);
+}
+.div6{
+    background-color: rgb(255, 0, 0);
+}
