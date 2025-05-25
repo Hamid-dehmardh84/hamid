@@ -272,7 +272,7 @@
 }
 
 }
-/* @media only screen and (min-width:1501px) and (max-width:2000px){
+ @media only screen and (min-width:1501px) and (max-width:2000px){
 .body-main{
     display: grid;
     grid-template-columns:  1fr  ;
@@ -325,7 +325,7 @@
     margin-bottom: 15px;
 }
 
-} */
+} 
 /* @media only screen and (min-width:1451px) and (max-width:1500px){
 .body-main{
     display: grid;
