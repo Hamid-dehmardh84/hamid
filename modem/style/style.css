@@ -1,4 +1,4 @@
-/* *{
+*{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -48,7 +48,68 @@
     width:320px ;
     margin-top: 15px;
     background-color: rgb(5, 5, 117);
-} */
+}
+#a-too-header{
+    transition-property: box-shadow ,font-size;
+    transition-duration: 1s;
+    display: inline-block;
+    text-decoration: none;
+    color:  rgb(151, 150, 153);
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: solid 2px  ;
+    border-radius: 15px;
+}
+#a-too-header:hover{
+    font-size: 36px;
+    box-shadow: 0px 0px 10px 8px blueviolet;
+    
+}
+   
+/* a{
+    transition-property: box-shadow ,font-size;
+    transition-duration: 1s;
+    display: inline-block;
+    text-decoration: none;
+    color:  blueviolet;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: solid 2px  ;
+    border-radius: 15px;
+} 
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* @media only */
 
